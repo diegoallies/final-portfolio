@@ -1,4 +1,6 @@
-
+body {
+    font-family: "Comfortaa";
+}
 
 .glow-on-hover {
     width: 100%;
@@ -159,7 +161,7 @@ body {
     width: 11px;
     height: 11px;
     border-radius: 50%;
-    background-color: #f1c40f;
+    background-color: #0f44f1;
     content: "";
     top: 50%;
     right: 26px;
@@ -194,7 +196,7 @@ body {
     transition-duration: 500ms;
     width: 30px;
     height: 30px;
-    background-color: #f1c40f;
+    background-color: #0f78f1;
     -webkit-box-flex: 0;
     -ms-flex: 0 0 30px;
     flex: 0 0 30px;
