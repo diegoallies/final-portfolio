@@ -89,6 +89,10 @@
     background-image: url(/css/css/wall.jpg);
 }
 
+h6 {
+    font-size: 150%;
+}
+
 /*  timeline css*/
 body {
     margin-top: 20px;
