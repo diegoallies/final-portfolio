@@ -438,5 +438,9 @@ a:active {
     .vf {
         margin-top: -130%;
     }
+
+    .vg {
+        display: none;
+    }
 }
 
