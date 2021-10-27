@@ -327,8 +327,7 @@ body {
     perspective: 1000px;
     margin-top: 5%;
     margin-bottom: 5%;
-    margin-right: 10%;
-    margin-left: 10%;
+    
   }
   
   .flip-card-inner {
@@ -421,7 +420,7 @@ a:active {
 /* */
 
 .vf {
-    gap: 15%;
+    gap: 0%;
 }
 
 .nbv {
@@ -549,5 +548,10 @@ section {
 }
 
 .qab {
+    margin-bottom: 2.5%;
+}
+
+.qaza {
+    margin-right: 9%;
     margin-bottom: 2.5%;
 }
