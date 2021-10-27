@@ -68,6 +68,10 @@ img {
 }
 
 .hdr {
+    margin-top: 10%;
+}
+
+.vfa {
     margin-top: 15%;
 }
 
@@ -384,7 +388,9 @@ body {
   
   img.ri {
       border-radius: 15px;
+      object-fit: cover;
   }
+
 
   /*hover */
   a:hover {
