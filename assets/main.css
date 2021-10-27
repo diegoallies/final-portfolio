@@ -92,6 +92,9 @@ img {
     
 }
 
+.ccc {
+    height: 100%;
+}
 
 .bh {
     margin-top: 3%;
@@ -292,14 +295,22 @@ body {
 }
 
 .card1 {
-    width: 25%;
-    height: 70%;
+    width: 100%;
+    height: 100%;
+    background-color: #3e7f81;
     margin-left: 3%;
     margin-right: 3%;
-    background-color: #151a5a00;
-    margin-top: 3%;
     margin-bottom: 3%;
-    color: #00ffd5;
+    margin-top: 3%;
+    border: outset;
+    border-color: #818181;
+
+
+}
+
+
+.vgfg {
+    width: 100%;
 }
 
 
@@ -473,10 +484,12 @@ a:active {
     }
 
     .card1 {
-        width: 90%;
+        width: 94%;
         background-color: #3e7f81;
-        margin-left: 0%;
-        margin-right: 0%;
+        margin-left: 3%;
+        margin-right: 3%;
+        border: outset;
+        border-color: #818181;
     }
 
     img {
@@ -512,4 +525,23 @@ section {
     width: 94%;
     margin-left: 4%;
     margin-right: 4%;
+}
+
+.asa {
+    margin-left: -0.5%;
+}
+
+
+.qqq {
+    padding: 0% !important;
+    
+}
+
+.qaz {
+    margin-right: 3%;
+    margin-bottom: 2.5%;
+}
+
+.qab {
+    margin-bottom: 2.5%;
 }
