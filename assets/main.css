@@ -443,11 +443,27 @@ a:active {
     
     }
 
-    
+    .bh {
+        margin-bottom: -400px;
+    }
 
     .vg {
         display: none;
     }
+
+    .flip-card {
+        margin-left: 5%;
+        margin-right: 5;
+    }
+
+    .tna {
+        font-size: 80%;
+    }
+
+    .biog {
+        display: none;
+    }
+    
 }
 
 section {
