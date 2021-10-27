@@ -78,9 +78,7 @@ img {
 .fg {
     margin-top: 15%;
 }
-.gv {
-    flex-wrap: ;
-}
+
 .fg2 {
     margin-bottom: 10%;
 }
@@ -477,6 +475,17 @@ a:active {
     .card1 {
         width: 90%;
         background-color: #3e7f81;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+
+    img {
+        object-fit: contain;
+    }
+    
+
+    .skw {
+        font-size: 70%;
     }
 }
 
@@ -497,4 +506,10 @@ section {
 
 .po {
     margin-top: 1%;
+}
+
+.qwe {
+    width: 94%;
+    margin-left: 4%;
+    margin-right: 4%;
 }
