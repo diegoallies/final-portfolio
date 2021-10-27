@@ -298,7 +298,7 @@ body {
     height: 70%;
     margin-left: 3%;
     margin-right: 3%;
-    background-color: #000000;
+    background-color: #151a5a00;
     margin-top: 3%;
     margin-bottom: 3%;
     color: #00ffd5;
@@ -464,8 +464,37 @@ a:active {
         display: none;
     }
     
+    .vgvg {
+        display: inline-block;
+        margin-top: 22%;
+        margin-bottom: 22%;
+    }
+
+    .bga {
+        display: none;
+    }
+
+    .card1 {
+        width: 90%;
+        background-color: #3e7f81;
+    }
 }
 
 section {
     overflow: hidden;
+}
+
+.bhu {
+    margin-top: 2%;
+    display: inline-block;
+
+}
+
+.lkj {
+    display: inline-block;
+    margin-top: -15%;
+}
+
+.po {
+    margin-top: 1%;
 }
