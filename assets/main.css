@@ -1,5 +1,6 @@
 body {
     font-family: "Comfortaa";
+
 }
 
 img {
@@ -442,9 +443,7 @@ a:active {
     
     }
 
-    .vf {
-        margin-top: -130%;
-    }
+    
 
     .vg {
         display: none;
