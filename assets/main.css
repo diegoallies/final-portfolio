@@ -528,6 +528,15 @@ a:active {
         margin-left: 5% !important;
         margin-right: 50% !important;
     }
+
+    .nh {
+        margin-left: -5%;
+    }
+
+    .bhh {
+        margin-top: 10%;
+        margin-bottom: 7%;
+    }
 }
 
 .mn {
@@ -598,3 +607,4 @@ section {
 .asaa {
     margin-left: -1.5%;
 }
+
