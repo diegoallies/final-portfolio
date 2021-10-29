@@ -439,9 +439,6 @@ a:active {
      display: none;
  }
 
-.bvc {
-    width: 100%;
-}
 @media screen and (max-width:640px){
 
     .bh {
@@ -612,4 +609,12 @@ section {
 
 .ppp {
     color: whitesmoke;
+}
+
+.qsx:hover {
+    font-size: 505%;
+}
+
+.rs {
+    color: black;
 }
