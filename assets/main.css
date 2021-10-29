@@ -534,6 +534,10 @@ a:active {
         margin-top: 10%;
         margin-bottom: 7%;
     }
+
+    .vc {
+        margin-bottom: -50%;
+    }
 }
 
 .mn {
