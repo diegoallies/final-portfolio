@@ -72,7 +72,7 @@ img {
 }
 
 .vfa {
-    margin-top: 15%;
+    margin-top: 5%;
 }
 
 .gt {
@@ -439,6 +439,7 @@ a:active {
      display: none;
  }
 
+
 @media screen and (max-width:640px){
 
     .bh {
@@ -621,4 +622,20 @@ section {
 
 .rs {
     color: black;
+}
+
+/* fixes */
+
+.bvbv {
+    margin-top: 3%;
+}
+
+.nnnn {
+    margin-top: 7%;
+    margin-left: 25%;
+    width: 50%;
+}
+
+.tftf {
+    text-align: center;
 }
