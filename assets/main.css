@@ -420,7 +420,7 @@ a:active {
 /* */
 
 .vf {
-    gap: 10%;
+    gap: 9.3%;
 }
 
 .nbv {
@@ -539,6 +539,12 @@ a:active {
     .vc {
         margin-bottom: -50%;
     }
+
+    /* new fixes */
+
+    .mmmmm {
+        margin-left: 0%;
+    }
 }
 
 .mn {
@@ -638,4 +644,18 @@ section {
 
 .tftf {
     text-align: center;
+}
+
+.mmmmm {
+    margin-left: 35%;
+}
+
+.nnnnn {
+    margin-left: 60%;
+}
+
+/* more alternations */
+
+.tatl {
+    margin-right: 5%;
 }
