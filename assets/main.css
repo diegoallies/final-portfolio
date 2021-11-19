@@ -309,6 +309,9 @@ body {
     margin-top: 3%;
     border: outset;
     border-color: #818181;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #000000;
+    border-radius: 1%;
 
 
 }
@@ -506,6 +509,7 @@ a:active {
 
     .skw {
         font-size: 70%;
+        width: 50%;
     }
 
     .bes {
@@ -664,4 +668,42 @@ section {
     margin-right: 5%;
 }
 
-/*  testing vscode commits */
+.perceh {
+    margin-left: 83%;
+}
+
+.percec {
+    margin-left: 86%;
+}
+
+.percej {
+    margin-left: 76%;
+}
+
+.perceg {
+    margin-left: 87%;
+}
+
+.perceb {
+    margin-left: 77%;
+}
+
+.percel {
+    margin-left: 74%;
+}
+
+.percetw {
+    margin-left: 75%;
+}
+
+.percetm {
+    margin-left: 62.7%;
+}
+
+.perceps {
+    margin-left: 67%;
+}
+
+.percecs {
+    margin-left: 58%;
+}
