@@ -69,6 +69,7 @@ img {
 
 .hdr {
     margin-top: 10%;
+    border-radius: 10%;
 }
 
 .vfa {
@@ -308,6 +309,9 @@ body {
     margin-top: 3%;
     border: outset;
     border-color: #818181;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #000000;
+    border-radius: 1%;
 
 
 }
@@ -338,6 +342,7 @@ body {
     transition: transform 0.6s;
     transform-style: preserve-3d;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 15px;
   
   }
   
@@ -364,6 +369,7 @@ body {
     background-color: #000000;
     color: white;
     transform: rotateY(180deg);
+    padding: 3%;
   }
   
   
@@ -418,6 +424,7 @@ a:active {
 
 
 /* */
+
 
 .vf {
     gap: 9.3%;
@@ -502,6 +509,7 @@ a:active {
 
     .skw {
         font-size: 70%;
+        width: 50%;
     }
 
     .bes {
@@ -658,4 +666,44 @@ section {
 
 .tatl {
     margin-right: 5%;
+}
+
+.perceh {
+    margin-left: 83%;
+}
+
+.percec {
+    margin-left: 86%;
+}
+
+.percej {
+    margin-left: 76%;
+}
+
+.perceg {
+    margin-left: 87%;
+}
+
+.perceb {
+    margin-left: 77%;
+}
+
+.percel {
+    margin-left: 74%;
+}
+
+.percetw {
+    margin-left: 75%;
+}
+
+.percetm {
+    margin-left: 62.7%;
+}
+
+.perceps {
+    margin-left: 67%;
+}
+
+.percecs {
+    margin-left: 58%;
 }
